@@ -1,0 +1,12 @@
+.main{
+  display: grid;
+  justify-content: center;
+}
+.main-btn{
+  display: flex;
+  justify-content: center;
+}
+.card{
+  height: 250px;
+  width: 250px;
+}
